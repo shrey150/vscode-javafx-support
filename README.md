@@ -1,6 +1,6 @@
 # JavaFX Support for VSCode
 
-![Marketplace Version](https://vsmarketplacebadge.apphb.com/version/shrey150.javafx-support.svg)
+[![Marketplace Version](https://vsmarketplacebadge.apphb.com/version/shrey150.javafx-support.svg)](https://marketplace.visualstudio.com/items?itemName=shrey150.javafx-support)
 
 Fixes "Language Support for Java(TM) by Red Hat" when using JavaFX.
 
