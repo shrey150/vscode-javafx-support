@@ -1,5 +1,7 @@
 # JavaFX Support for VSCode
 
+![Marketplace Version](https://vsmarketplacebadge.apphb.com/version/shrey150.javafx-support.svg)
+
 Fixes "Language Support for Java(TM) by Red Hat" when using JavaFX.
 
 In Java 8, JavaFX is bundled along with the JDK. However, the official Java Extension Pack does not account for this, causing persistent warnings and interfering with IntelliSense:
